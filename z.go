@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/util"
+	"github.com/ericbyz/dm/util"
 	"math/rand"
 	"sync"
 	"time"

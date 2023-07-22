@@ -6,7 +6,7 @@ package main
 
 import (
 	"database/sql"
-	_ "dm"
+	_ "github.com/ericbyz/dm"
 	"log"
 )
 

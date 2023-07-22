@@ -7,7 +7,7 @@ package dm
 import (
 	"bytes"
 	"crypto/tls"
-	"dm/security"
+	"github.com/ericbyz/dm/security"
 	"net"
 	"strconv"
 	"time"
